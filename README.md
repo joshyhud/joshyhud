@@ -1,5 +1,15 @@
 # 👋 Welcome to My GitHub Profile!
 
+<!-- 
+PERSONALIZATION GUIDE:
+1. Replace "yourwebsite.com" with your actual website URL (line 26)
+2. Replace "yourprofile" with your LinkedIn username (line 28)
+3. Update the bio section with your own description and interests (lines 13-18)
+4. Replace project placeholders with your actual projects (lines 36-43)
+5. Update technology badges to match your tech stack (lines 64-70)
+6. Customize the "About Me" section with your current work and goals
+-->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A890FE&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Josh!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
