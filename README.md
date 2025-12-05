@@ -23,9 +23,9 @@ I'm a passionate developer who loves building innovative solutions and exploring
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://joshyhud.github.io)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joshyhud)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://joshyhud.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 </div>
 
@@ -33,14 +33,14 @@ I'm a passionate developer who loves building innovative solutions and exploring
 
 ## 🛠️ Featured Projects
 
-### 🌟 [Project 1](https://github.com/joshyhud)
-A description of your first featured project - what it does and the technologies used.
+### 🌟 [Project 1 Name](https://github.com/joshyhud/project1)
+A description of your first featured project - what it does and the technologies used. Replace with your actual project details.
 
-### 🌟 [Project 2](https://github.com/joshyhud)
-A description of your second featured project - what it does and the technologies used.
+### 🌟 [Project 2 Name](https://github.com/joshyhud/project2)
+A description of your second featured project - what it does and the technologies used. Replace with your actual project details.
 
-### 🌟 [Project 3](https://github.com/joshyhud)
-A description of your third featured project - what it does and the technologies used.
+### 🌟 [Project 3 Name](https://github.com/joshyhud/project3)
+A description of your third featured project - what it does and the technologies used. Replace with your actual project details.
 
 ---
 
