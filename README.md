@@ -47,11 +47,3 @@ Accessibility, Community based learning such as Codebar, CSS Animations
 **Email:** [joshhudsondev@gmail.com](mailto:joshhudsondev@gmail.com)
 
 </div>
-
----
-From [Josh Hudson](https://github.com/joshyhud)
-
-<!-- Profile views counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/joshyhud/count.svg" alt="Visitor Count" />
-</div>
