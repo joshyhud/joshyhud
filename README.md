@@ -1,8 +1,10 @@
 # Hi 👋, I'm Josh
 
-**Web Developer specialising in WordPress, Shopify, and modern JavaScript frameworks (React, Next.js). Building scalable digital experiences with a focus on performance and clean architecture.**
+**Web developer specialising in WordPress, Shopify, and modern JavaScript frameworks (React, Next.js), with a strong focus on performance, scalability, and clean architecture.**
 
-I’m a UK-based web developer specialising in building high-impact digital experiences. I thrive on collaboration and craftsmanship, turning ideas into robust, user-focused websites across WordPress, e-commerce, and bespoke builds. Based on the South Coast, I’m driven by a passion for clean code, creative problem solving and bringing projects to life. Check out some of my recent work
+I’m a UK-based developer building high-impact, user-focused digital experiences across WordPress, e-commerce, and bespoke builds. I enjoy collaborating closely with designers and stakeholders to turn ideas into robust, well-crafted solutions. Based on the South Coast, I’m driven by clean code, thoughtful problem-solving, and bringing projects to life.
+
+Take a look at some of my recent work below.
 
 ## I'm currently working on
 
